@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb-Project.iml" filepath="$PROJECT_DIR$/JavaWeb-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-online/book-online.iml" filepath="$PROJECT_DIR$/book-online/book-online.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qulickstat/qulickstat.iml" filepath="$PROJECT_DIR$/qulickstat/qulickstat.iml" />
+    </modules>
+  </component>
+</project>
